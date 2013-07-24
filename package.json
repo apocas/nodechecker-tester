@@ -1,5 +1,5 @@
 {
-    "name"        : "npmt-tester"
+    "name"        : "nodechecker-tester"
   , "version"     : "0.0.1"
   , "homepage"    : "http://nodechecker.com"
   , "description" : "Nodechecker tester/container"
