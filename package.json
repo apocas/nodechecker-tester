@@ -1,0 +1,11 @@
+{
+    "name"        : "npmt-tester"
+  , "version"     : "0.0.1"
+  , "homepage"    : "http://nodechecker.com"
+  , "description" : "Nodechecker tester/container"
+  , "dependencies": {
+      "npm"              : "*"
+      , "docker.io"             : "git://github.com/apocas/docker.io.git"
+    }
+  , "main"    : "./lib/test.js"
+}
