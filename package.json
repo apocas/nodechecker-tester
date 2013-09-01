@@ -5,7 +5,7 @@
   , "description" : "Nodechecker tester/container"
   , "dependencies": {
       "npm"              : "*"
-      , "docker.io"             : "git://github.com/apocas/docker.io.git"
+      , "dockerode"             : "*"
     }
   , "main"    : "./lib/test.js"
 }
